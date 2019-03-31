@@ -1,0 +1,15 @@
+{
+  "name": "fila/mvc_micro_framework",
+  "description": "description_text",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "require": {
+    "php": "^7.1"
+  },
+  "authors": [
+    {
+      "name": "Richard Fíla",
+      "email": "st39717@student.upce.cz"
+    }
+  ]
+}
